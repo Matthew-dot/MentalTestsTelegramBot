@@ -2,7 +2,7 @@ from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, KeyboardButt
 
 from aiogram import executor, types
 from data.misc import dp, bot, tests_names_buttons
-import data.tests
+import tests
 from data import database
 
 
