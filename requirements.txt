@@ -1,4 +1,4 @@
-aiogram.Bot
+aiogram.bot.Bot
 aiogram.executor
 aiogram.Dispatcher
 sqlalchemy.create_engine
