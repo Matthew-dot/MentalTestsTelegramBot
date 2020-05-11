@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, types
 from data import config
-bot = Bot(confi g.TOKEN)
+bot = Bot(config.TOKEN)
 dp = Dispatcher(bot)
 
 from config import TESTS_NAMES
