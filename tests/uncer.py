@@ -1,7 +1,7 @@
 from aiogram import types
-from misc import bot, dp, tests_buttons, tests_names_buttons
-import database
-from config import UNCERTAINTY_QUESTIONS
+from PsychoTests.misc import bot, dp, tests_buttons, tests_names_buttons
+import PsychoTests.database as database
+from PsychoTests.config import UNCERTAINTY_QUESTIONS
 
 
 async def finnaly(m: types.Message):
