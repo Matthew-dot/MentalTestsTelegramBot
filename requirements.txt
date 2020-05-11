@@ -1,6 +1,3 @@
 aiogram
 sqlalchemy
-./config
-./misc
-./tests
-./database
+tests
