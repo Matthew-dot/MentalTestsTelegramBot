@@ -20,6 +20,8 @@ async def start(m: types.Message):
                                       "гармоничной.")
     await bot.send_message(m.chat.id, "Выберите интересующий вас тест:", reply_markup=tests_names_buttons())
 
+print(__name__)
 
 if __name__ == "__main__":
+    print("exe!!!!!!!!!!!")
     executor.start_polling(dp)
