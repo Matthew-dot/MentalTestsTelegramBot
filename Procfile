@@ -1,1 +1,1 @@
-worker: python PsychoTests/index.py
+worker: python index.py

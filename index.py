@@ -1,9 +1,9 @@
 from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
 from aiogram import executor, types
-from misc import dp, bot, tests_names_buttons
-import tests
-from . import database
+from data.misc import dp, bot, tests_names_buttons
+from data import tests
+from data import database
 
 
 

@@ -1,4 +1,4 @@
 aiogram
 sqlalchemy
-PsychoTests
 tests
+data
