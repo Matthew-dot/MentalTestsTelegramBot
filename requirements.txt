@@ -1,2 +1,8 @@
-aiogram
-sqlalchemy
+aiogram.Bot
+aiogram.executor
+aiogram.Dispatcher
+sqlalchemy.create_engine
+sqlalchemy.MetaData
+sqlalchemy.Table
+sqlalchemy.Column
+sqlalchemy.Integer
